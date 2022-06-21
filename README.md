@@ -1,5 +1,5 @@
 # fuzz
 
-- referência: https://go.dev/doc/tutorial/fuzz
+- reference: https://go.dev/doc/tutorial/fuzz
 
-esse repositorio é para fim de estudo e entendimento da nova funcionalidade do go lang Fuzz
+this repository is for the purpose of studying and understanding the new functionality of go lang Fuzz
